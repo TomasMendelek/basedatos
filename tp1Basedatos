@@ -1,0 +1,85 @@
+ 1)
+    Cliente
+-Dni
+-Nombre
+-direccion
+-estado
+    Asunto
+-Numero de expediente
+-fecha
+-Estado
+-cliente
+
+    Procurador
+-Codigo
+-dni
+-nombre
+-direccion
+
+    Estado
+-Tramite
+-Archivado
+
+
+2)
+    Avion
+-Codigo/ID
+-Matricula
+-Fabricante
+-Modelo
+-Capacidad
+-autonomia
+-Piloto
+    Piloto
+-Codigo/id
+-licencia de piloto
+-Nombre
+-Horas de vuelo
+-base
+-
+-Base
+    Destino
+-codigo/id
+-Hora
+-fecha
+-Tripulación
+    Tripulacion
+-codigo/Id
+-Nombre
+-base
+    Vuelo
+-Numero de vuelo/id
+-hora
+-base
+-
+3)
+    Concesionaria
+-Nombre
+-Dirección
+-Teléfono
+-correo
+-Web
+-Modelos que vende
+-Garantías
+-financiación
+-Precios
+    Auto Móvil
+-Código
+-Marca
+-Modelo
+-Color
+-Número de chasis
+-Número de motor
+-Kilometraje
+-Estado del automóvil
+-Propietario
+    Venta
+-Código/Id
+-Fecha de venta
+-Hora de venta
+-Concesionaria
+-Cliente
+-Automóvil Vendido
+-Precio Venta
+-Forma de pago
+-Financiación
