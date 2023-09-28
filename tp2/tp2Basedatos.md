@@ -35,8 +35,6 @@
 - Musicos
 - Partitura
 ![drawiotp1](Drawio/tp2.1.Epocas.png)
-[Excel.Epocas](Excels/)
-
 
 ### 2) Libro
 - Titulo(ID)
