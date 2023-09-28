@@ -34,6 +34,10 @@
 - Año
 - Musicos
 - Partitura
+![drawiotp1](Drawio/tp2.1.Epocas.png)
+[Excel.Epocas](Excels/)
+
+
 ### 2) Libro
 - Titulo(ID)
 - Genero
@@ -68,6 +72,10 @@
 - Nombre
 - Apellido
 - Email
+
+![drawiotp2](Drawio/tp2.2.Biblioteca.png)
+[Excel.Biblioteca](Excels/tp2.2-Biblioteca.xlsx)
+
 
 ### 3) Partido
 - Codigo(Id)
@@ -126,3 +134,6 @@
 - Zona
 - Fila
 - NumeroAsiento
+
+![drawiotp3](Drawio/tp2.3qatar.png)
+[Excel.Qatar](Excels/tp2.3-Qatar22.xlsx)
